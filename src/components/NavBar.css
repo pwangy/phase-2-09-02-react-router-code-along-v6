@@ -1,0 +1,16 @@
+.nav-link{
+    width: 60px;
+    margin: 0 6px 6px;
+    padding: 5px;
+    font-size: min(10vw, 15px);
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background: blue;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.active {
+    color: red;
+}
